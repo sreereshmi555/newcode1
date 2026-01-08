@@ -1,0 +1,34 @@
+button{
+    background-color:blue;
+    color : white;
+}
+.menu{
+    text-align:center;
+    background-color:#000000;
+}
+.menu ul{
+    display:inline-flex;
+    color:floralwhite
+
+}
+.menu ul li{
+    font-family:Impact;
+    width:120px;
+    margin:15px;
+    padding:15px;
+}
+.menu ul li:hover{
+    background-color:grey;
+    border-radius:10px;
+    cursor:pointer;
+}
+.two{
+    background-color:lightgrey;
+}
+.contact-info{
+    display:flex;
+    Align-items:center;
+    justify-content:space-around;
+    gap:30px;
+
+}
